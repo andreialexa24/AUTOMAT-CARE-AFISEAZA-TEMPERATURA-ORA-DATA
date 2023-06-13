@@ -1,0 +1,740 @@
+acom $DSN/src/Automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/Automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom $DSN/src/Automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom $DSN/src/COMPARATOR.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "comp" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: Architecture 'comp' of entity 'comparator' not found in library 'ProiectPSN'.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  comparator_8bit comp_arch
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2418 kB (elbread=1070 elab2=299 kernel=1049 sdf=0)
+# 09:38, Monday, July 5, 2021
+# Simulation has been initialized
+# Selected Top-Level: comparator_8bit (comp_arch)
+acom $DSN/src/Automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]
+asim -advdataflow  automat struct
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2430 kB (elbread=1071 elab2=309 kernel=1050 sdf=0)
+# 09:39, Monday, July 5, 2021
+# Simulation has been initialized
+# Selected Top-Level: automat (struct)
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/Automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "comp" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: Architecture 'comp' of entity 'comparator' not found in library 'ProiectPSN'.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "comp" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: Architecture 'comp' of entity 'comparator' not found in library 'ProiectPSN'.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_8bit"
+# Entity `comparator_8bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_8bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# Error: ULM_0021: Architecture "" is not up-to-date. Please, recompile file: ./src/COMPARATOR.vhd.
+# ELBREAD: Error: No design unit found (searched libraries: proiectpsn, name comparator).
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_bit"
+# Compile Architecture "comp_arch" of Entity "comparator_bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]
+# Design: Design ProiectPSN already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_bit"
+# Entity `comparator_bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.8 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  automat struct
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2439 kB (elbread=1071 elab2=317 kernel=1051 sdf=0)
+# 09:44, Monday, July 5, 2021
+# Simulation has been initialized
+# Selected Top-Level: automat (struct)
+run 100 ns
+# RUNTIME: Fatal Error: RUNTIME_0047 SUMATOR.vhd (37): Index 7 out of range (6 downto 0).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /sumator,  Process: line__28.
+# KERNEL: stopped at delta: 0 at time 0 ps.
+# Fatal error occurred during simulation.
+acom $DSN/src/poartaor3.vhd $DSN/src/poartaor2.vhd "$DSN/src/poarta and2.vhd" $DSN/src/comparator.vhd $DSN/src/numarator.vhd $DSN/src/sumator.vhd $DSN/src/bcd7segm.vhd $DSN/src/comp1bit.vhd "$DSN/src/mux 8_1.vhd" "$DSN/src/dmux 1_8.vhd" $DSN/src/automat.vhd
+# Compile...
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR3.vhd
+# Compile Entity "OR3"
+# Entity `OR3' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR3"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\PoartaOR2.vhd
+# Compile Entity "OR2"
+# Entity `OR2' has been skipped - no difference detected.
+# Compile Architecture "flux" of Entity "OR2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Poarta AND2.vhd
+# Compile Entity "AND2"
+# Entity `AND2' has been skipped - no difference detected.
+# Compile Architecture "andLogic" of Entity "AND2"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\COMPARATOR.vhd
+# Compile Entity "comparator_bit"
+# Entity `comparator_bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\NUMARATOR.vhd
+# Compile Entity "NUMARATOR"
+# Entity `NUMARATOR' has been skipped - no difference detected.
+# Compile Architecture "rtl" of Entity "NUMARATOR"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\SUMATOR.vhd
+# Compile Entity "addierer"
+# Entity `addierer' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "addierer"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\BCD7segm.vhd
+# Compile Entity "bcd_7segment"
+# Entity `bcd_7segment' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "bcd_7segment"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\comp1bit.vhd
+# Compile Entity "comparator_1bit"
+# Entity `comparator_1bit' has been skipped - no difference detected.
+# Compile Architecture "comp_arch" of Entity "comparator_1bit"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\MUX 8_1.vhd
+# Compile Entity "MUX8_1"
+# Entity `MUX8_1' has been skipped - no difference detected.
+# Compile Architecture "BEHAVIORAL" of Entity "MUX8_1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\DMUX 1_8.vhd
+# Compile Entity "dmux1"
+# Entity `dmux1' has been skipped - no difference detected.
+# Compile Architecture "behavioral" of Entity "dmux1"
+# File: C:\Users\MSI\Desktop\ProiectPsn\ProiectPSN\src\Automat.vhd
+# Compile Entity "automat"
+# Entity `automat' has been skipped - no difference detected.
+# Compile Architecture "struct" of Entity "automat"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.7 [s]
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+asim -advdataflow  automat struct
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2439 kB (elbread=1071 elab2=317 kernel=1051 sdf=0)
+# 09:46, Monday, July 5, 2021
+# Simulation has been initialized
+# Selected Top-Level: automat (struct)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 0,  Instance: /counter3,  Process: line__17.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 0,  Instance: /counter3,  Process: line__17.
+# KERNEL: stopped at time: 200 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2439 kB (elbread=1071 elab2=317 kernel=1051 sdf=0)
+# 09:48, Monday, July 5, 2021
+# Simulation has been initialized
+# Selected Top-Level: automat (struct)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 0,  Instance: /counter4,  Process: line__17.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 0,  Instance: /counter4,  Process: line__17.
+# KERNEL: stopped at time: 200 ns
+# Simulation has been stopped

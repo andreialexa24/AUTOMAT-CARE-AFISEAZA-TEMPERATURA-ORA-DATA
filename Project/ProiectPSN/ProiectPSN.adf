@@ -1,0 +1,60 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=ProiectPSN
+
+[Library]
+ProiectPSN=.\ProiectPSN.lib
+
+[$LibMap$]
+ProiectPSN=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=automat|struct|0 comparator_8bit|comp_arch|0 mux8_1|behavioral|0 or3_luna|flux|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files.Data]
+.\src\PoartaOR3.vhd=VHDL Source Code
+.\src\PoartaOR2.vhd=VHDL Source Code
+.\src\Poarta AND2.vhd=VHDL Source Code
+.\src\COMPARATOR.vhd=VHDL Source Code
+.\src\NUMARATOR.vhd=VHDL Source Code
+.\src\SUMATOR.vhd=VHDL Source Code
+.\src\BCD7segm.vhd=VHDL Source Code
+.\src\comp1bit.vhd=VHDL Source Code
+.\src\Automat.vhd=VHDL Source Code
+.\src\MUX 8_1.vhd=VHDL Source Code
+.\src\DMUX 1_8.vhd=VHDL Source Code
+
+[Files]
+/PoartaOR3.vhd=-1
+/PoartaOR2.vhd=-1
+/Poarta AND2.vhd=-1
+/COMPARATOR.vhd=-1
+/NUMARATOR.vhd=-1
+/SUMATOR.vhd=-1
+/BCD7segm.vhd=-1
+/comp1bit.vhd=-1
+/MUX 8_1.vhd=-1
+/DMUX 1_8.vhd=-1
+/Automat.vhd=-1
+

@@ -1,0 +1,245 @@
+timestamp=1625467585583
+
+[addierer]
+A/behavioral=A/Behavioral 21|./src/SUMATOR.vhd|12|1*433439
+B/behavioral=3*214686
+H/behavioral=0*340360
+R=./src/SUMATOR.vhd|4
+V=0*71632
+
+[and2]
+A/andlogic=A/andLogic 21|./src/Poarta AND2.vhd|11|1*429267
+B/andlogic=3*211399
+H/andlogic=0*338551
+R=./src/Poarta AND2.vhd|3
+V=0*52160
+
+[automat]
+A/struct=21|./src/Automat.vhd|10|1*442746
+H/struct=0*344751
+R=./src/Automat.vhd|4
+V=0*182914
+
+[bcd_7seg]
+A/behavioral=A/Behavioral 21|./src/DCD7segm.vhd|9|1*33595
+B/behavioral=3*13293
+H/behavioral=0*39737
+R=./src/DCD7segm.vhd|4
+V=0*41083
+
+[bcd_7segment]
+A/behavioral=A/Behavioral 21|./src/BCD7segm.vhd|10|1*435373
+B/behavioral=3*216628
+H/behavioral=0*342289
+R=./src/BCD7segm.vhd|4
+V=0*48972
+
+[comparator]
+A/behavioral=A/Behavioral +21|./src/COMPARATOR.vhd|11|1*11853
+A/comp=+21|./src/COMPARATOR.vhd|11|1*37836
+R=./src/COMPARATOR.vhd|4
+V=0*60395
+
+[comparator_1bit]
+A/comp_arch=21|./src/comp1bit.vhd|8|1*437108
+B/comp_arch=3*219230
+H/comp_arch=0*343152
+R=./src/COMPARATOR1BIT.vhd|3
+V=0*67609
+
+[comparator_8bit]
+A/comp_arch=21|./src/COMPARATOR.vhd|8|1*365066
+B/comp_arch=3*166400
+H/comp_arch=0*300181
+R=./src/COMPARATOR.vhd|3
+V=0*145651
+
+[comparator_bit]
+A/comp_arch=21|./src/COMPARATOR.vhd|8|1*430264
+B/comp_arch=3*211814
+H/comp_arch=0*338855
+R=./src/COMPARATOR.vhd|3
+V=0*313319
+
+[comparator_source]
+A/behavioral=A/Behavioral 21|./src/Comparator.vhd|11|1*10473
+B/behavioral=3*5827
+H/behavioral=0*12193
+R=./src/Comparator.vhd|6
+V=0*13288
+
+[dmux1]
+A/behavioral=21|./src/DMUX 1_8.vhd|12|1*440512
+B/behavioral=3*222605
+H/behavioral=0*344150
+R=./src/DMUX 1_8.vhd|6
+V=0*167434
+
+[mux8_1]
+A/behavioral=A/BEHAVIORAL 21|./src/MUX 8_1.vhd|13|1*438501
+B/behavioral=3*220279
+H/behavioral=0*343530
+R=./src/MUX 8_1.vhd|5
+V=0*161907
+
+[numarator]
+A/rtl=21|./src/NUMARATOR.vhd|14|1*431659
+B/rtl=3*213311
+H/rtl=0*339333
+R=./src/NUMARATOR.vhd|5
+V=0*36533
+
+[or2]
+A/flux=21|./src/PoartaOR2.vhd|8|1*428286
+B/flux=3*210988
+H/flux=0*338284
+R=./src/PoartaOR2.vhd|3
+V=0*75566
+
+[or2_ora]
+A/flux=21|./src/Poarta SAU 3 intrari.vhd|30|1*5627
+B/flux=3*3201
+H/flux=0*5810
+R=./src/Poarta SAU 3 intrari.vhd|25
+V=0*2410
+
+[or3]
+A/flux=21|./src/PoartaOR3.vhd|8|1*427220
+B/flux=3*210505
+H/flux=0*338012
+R=./src/PoartaOR3.vhd|3
+V=0*74265
+
+[or3_luna]
+A/flux=21|./src/Poarta SAU 3 intrari.vhd|6|1*3979
+B/flux=3*2259
+H/flux=0*5176
+R=./src/Poarta SAU 3 intrari.vhd|1
+V=0*4235
+
+[or3_zi]
+A/flux=21|./src/Poarta SAU 3 intrari.vhd|18|1*4802
+B/flux=3*2730
+H/flux=0*5498
+R=./src/Poarta SAU 3 intrari.vhd|13
+V=0*1527
+
+[sumator]
+A/arhitectura=A/Arhitectura 21|./src/SUMATOR.vhd|13|1*17981
+B/arhitectura=3*8854
+H/arhitectura=0*23803
+R=./src/SUMATOR.vhd|4
+V=0*23442
+
+[sumator_1bit]
+A/arh1=21|./src/SUMATOR.vhd|16|1*22736
+B/arh1=3*9720
+H/arh1=0*29083
+R=./src/SUMATOR.vhd|11
+V=0*19701
+
+[sumator_4biti]
+A/arh2=21|./src/SUMATOR.vhd|22|1*14222
+H/arh2=0*20067
+R=./src/SUMATOR.vhd|4
+V=0*17434
+
+[sumator_8biti]
+A/arh2=21|./src/SUMATOR.vhd|22|1*23732
+H/arh2=0*29448
+R=./src/SUMATOR.vhd|4
+V=0*25228
+
+[up_counter]
+A/rtl=21|./src/NUMARATOR.vhd|14|1*26474
+B/rtl=3*10543
+H/rtl=0*32101
+R=./src/NUMARATOR.vhd|5
+V=0*33715
+
+[~A]
+./src/Automat.vhd~automat=0*175097*175406
+./src/Automat.vhd~structautomat=0*349224*351279
+./src/BCD7segm.vhd~Behavioralbcd_7segment=0*342384*343071
+./src/BCD7segm.vhd~bcd_7segment=0*47146*47423
+./src/COMPARATOR.vhd~BehavioralCOMPARATOR=0*14602*14885
+./src/COMPARATOR.vhd~COMPARATOR=0*59508*59743
+./src/COMPARATOR.vhd~compCOMPARATOR=0*46890*47071
+./src/COMPARATOR.vhd~comp_archcomparator_8bit=0*300274*300577
+./src/COMPARATOR.vhd~comp_archcomparator_bit=0*338948*339249
+./src/COMPARATOR.vhd~comparator_8bit=0*144246*144496
+./src/COMPARATOR.vhd~comparator_bit=0*311926*312173
+./src/COMPARATOR1BIT.vhd~comp_archcomparator_1bit=0*66824*67032
+./src/COMPARATOR1BIT.vhd~comparator_1bit=0*66417*66651
+./src/Comparator.vhd~BehavioralCOMPARATOR_SOURCE=0*12288*12585
+./src/Comparator.vhd~COMPARATOR_SOURCE=0*11797*12115
+./src/DCD7segm.vhd~Behavioralbcd_7seg=0*39833*40323
+./src/DCD7segm.vhd~bcd_7seg=0*39429*39670
+./src/DMUX 1_8.vhd~behavioraldmux1=0*344245*344677
+./src/DMUX 1_8.vhd~dmux1=0*165836*166147
+./src/MUX 8_1.vhd~BEHAVIORALMUX8_1=0*343626*344076
+./src/MUX 8_1.vhd~MUX8_1=0*160091*160427
+./src/NUMARATOR.vhd~NUMARATOR=0*34558*34858
+./src/NUMARATOR.vhd~rtlNUMARATOR=0*339970*340288
+./src/NUMARATOR.vhd~rtlup_counter=0*32738*33058
+./src/NUMARATOR.vhd~up_counter=0*31729*32031
+./src/Poarta AND2.vhd~AND2=0*51227*51431
+./src/Poarta AND2.vhd~andLogicAND2=0*338642*338781
+./src/Poarta OR2.vhd~OR2=0*52512*52679
+./src/Poarta OR2.vhd~fluxOR2=0*52826*52944
+./src/Poarta OR3.vhd~OR3=0*50056*50228
+./src/Poarta OR3.vhd~fluxOR3=0*50375*50498
+./src/Poarta SAU 3 intrari.vhd~OR2_ora=0*1844*1995
+./src/Poarta SAU 3 intrari.vhd~OR3_luna=0*3294*3456
+./src/Poarta SAU 3 intrari.vhd~OR3_zi=0*932*1086
+./src/Poarta SAU 3 intrari.vhd~fluxOR2_ora=0*5893*6038
+./src/Poarta SAU 3 intrari.vhd~fluxOR3_luna=0*5259*5415
+./src/Poarta SAU 3 intrari.vhd~fluxOR3_zi=0*5581*5729
+./src/PoartaOR2.vhd~OR2=0*74704*74882
+./src/PoartaOR2.vhd~fluxOR2=0*338367*338484
+./src/PoartaOR3.vhd~OR3=0*73357*73540
+./src/PoartaOR3.vhd~fluxOR3=0*338095*338217
+./src/SUMATOR.vhd~ArhitecturaSumator=0*23900*24108
+./src/SUMATOR.vhd~Behavioraladdierer=0*341548*342213
+./src/SUMATOR.vhd~Sumator=0*22348*22576
+./src/SUMATOR.vhd~addierer=0*68533*68852
+./src/SUMATOR.vhd~arh1sumator_1bit=0*29166*29374
+./src/SUMATOR.vhd~arh2sumator_4biti=0*21594*22273
+./src/SUMATOR.vhd~arh2sumator_8biti=0*30975*31654
+./src/SUMATOR.vhd~sumator_1bit=0*18643*18824
+./src/SUMATOR.vhd~sumator_4biti=0*16390*16676
+./src/SUMATOR.vhd~sumator_8biti=0*24184*24470
+./src/comp1bit.vhd~comp_archcomparator_1bit=0*343245*343447
+ModifyID=1369
+Version=73
+
+[~MFT]
+0=1458|0ProiectPSN.mgf|351279|288359
+1=393|1ProiectPSN.mgf|442746|407151
+3=336|3ProiectPSN.mgf|222605|199987
+
+[~U]
+addierer=11|0*70847|0*71077
+and2=11|0*51801|0*51941
+automat=11|0*181989|0*182413
+bcd_7seg=11|0*40400|0*40706
+bcd_7segment=11|0*48357|0*48555
+comparator=11|0*59814|0*60034
+comparator_1bit=11|0*67121|0*67332
+comparator_8bit=11|0*145053|0*145288
+comparator_bit=11|0*312726|0*312958
+comparator_source=COMPARATOR_SOURCE 11|0*12673|0*12884
+dmux1=11|0*166812|0*166979
+mux8_1=MUX8_1 11|0*161111|0*161403
+numarator=NUMARATOR 11|0*35954|0*36153
+or2=11|0*75212|0*75349
+or2_ora=OR2_ora 11|0*2073|0*2204
+or3=11|0*73875|0*74030
+or3_luna=11|0*3857|0*4008
+or3_zi=OR3_zi 11|0*1163|0*1304
+sumator=Sumator 11|0*23022|0*23175
+sumator_1bit=11|0*19259|0*19439
+sumator_4biti=11|0*16747|0*16966
+sumator_8biti=11|0*24541|0*24760
+up_counter=11|0*33131|0*33333
+

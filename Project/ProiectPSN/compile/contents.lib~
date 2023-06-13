@@ -1,0 +1,48 @@
+1369
+~E 1 "./src/COMPARATOR.vhd" 3 comparator_8bit
+~A 1 "./src/COMPARATOR.vhd" 8 comp_arch
+~E 1 "./src/DCD7segm.vhd" 4 bcd_7seg
+~A 1 "./src/DCD7segm.vhd" 9 behavioral
+~E 1 "./src/Poarta AND2.vhd" 3 and2
+~A 1 "./src/Poarta AND2.vhd" 11 andlogic
+~E 1 "./src/SUMATOR.vhd" 4 addierer
+~A 1 "./src/SUMATOR.vhd" 12 behavioral
+~E 1 "./src/Automat.vhd" 4 automat
+~A 1 "./src/Automat.vhd" 10 struct
+~E 1 "./src/COMPARATOR.vhd" 4 comparator
+~A 1 "./src/COMPARATOR.vhd" 11 comp
+~A 1 "./src/COMPARATOR.vhd" 11 behavioral
+~E 1 "./src/BCD7segm.vhd" 4 bcd_7segment
+~A 1 "./src/BCD7segm.vhd" 10 behavioral
+~E 1 "./src/COMPARATOR1BIT.vhd" 3 comparator_1bit
+~A 1 "./src/comp1bit.vhd" 8 comp_arch
+~E 1 "./src/PoartaOR3.vhd" 3 or3
+~A 1 "./src/PoartaOR3.vhd" 8 flux
+~E 1 "./src/MUX 8_1.vhd" 5 mux8_1
+~A 1 "./src/MUX 8_1.vhd" 13 behavioral
+~E 1 "./src/Comparator.vhd" 6 comparator_source
+~A 1 "./src/Comparator.vhd" 11 behavioral
+~E 1 "./src/COMPARATOR.vhd" 3 comparator_bit
+~A 1 "./src/COMPARATOR.vhd" 8 comp_arch
+~E 1 "./src/DMUX 1_8.vhd" 6 dmux1
+~A 1 "./src/DMUX 1_8.vhd" 12 behavioral
+~E 1 "./src/PoartaOR2.vhd" 3 or2
+~A 1 "./src/PoartaOR2.vhd" 8 flux
+~E 1 "./src/NUMARATOR.vhd" 5 numarator
+~A 1 "./src/NUMARATOR.vhd" 14 rtl
+~E 1 "./src/Poarta SAU 3 intrari.vhd" 25 or2_ora
+~A 1 "./src/Poarta SAU 3 intrari.vhd" 30 flux
+~E 1 "./src/SUMATOR.vhd" 11 sumator_1bit
+~A 1 "./src/SUMATOR.vhd" 16 arh1
+~E 1 "./src/Poarta SAU 3 intrari.vhd" 13 or3_zi
+~A 1 "./src/Poarta SAU 3 intrari.vhd" 18 flux
+~E 1 "./src/Poarta SAU 3 intrari.vhd" 1 or3_luna
+~A 1 "./src/Poarta SAU 3 intrari.vhd" 6 flux
+~E 1 "./src/SUMATOR.vhd" 4 sumator
+~A 1 "./src/SUMATOR.vhd" 13 arhitectura
+~E 1 "./src/SUMATOR.vhd" 4 sumator_8biti
+~A 1 "./src/SUMATOR.vhd" 22 arh2
+~E 1 "./src/SUMATOR.vhd" 4 sumator_4biti
+~A 1 "./src/SUMATOR.vhd" 22 arh2
+~E 1 "./src/NUMARATOR.vhd" 5 up_counter
+~A 1 "./src/NUMARATOR.vhd" 14 rtl

@@ -1,0 +1,11 @@
+.\src\PoartaOR3.vhd
+.\src\PoartaOR2.vhd
+.\src\Poarta AND2.vhd
+.\src\COMPARATOR.vhd
+.\src\NUMARATOR.vhd
+.\src\SUMATOR.vhd
+.\src\BCD7segm.vhd
+.\src\comp1bit.vhd
+.\src\MUX 8_1.vhd
+.\src\DMUX 1_8.vhd
+.\src\Automat.vhd

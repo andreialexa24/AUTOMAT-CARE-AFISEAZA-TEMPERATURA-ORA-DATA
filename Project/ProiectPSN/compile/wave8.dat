@@ -1,0 +1,45 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 in_grade
+$IN 5 1 clk
+$IN 9 1 in_minut
+$IN +4 1 luna
+$IN +4 1 zi
+$IN +4 1 ora
+$OUT +4 1 ex_dcd1
+$OUT +4 1 6 0 "2"
+$OUT +4 1 6 0 "3"
+$OUT +4 1 6 0 "4"
+$OUT +4 1 6 0 "5"
+$OUT +4 1 6 0 "6"
+$OUT +4 1 6 0 "7"
+$OUT +4 1 6 0 "8"
+I 2 "a#28#std_logic_vector(7 downto 0)1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S 89 2 8 ex_grade
+$SC 57-85/4
+$BUS S +37 2 8 ex_minut
+$SC 90-+28/4
+$BUS S +37 2 8 ex_sum
+$SC 123-+28/4
+$BUS S +37 2 8 ex_ora
+$SC 156-+28/4
+$BUS S +37 2 8 ex_luna
+$SC 189-+28/4
+$BUS S +37 2 8 ex_zi
+$SC 222-+28/4
+$S +5 1 exc6
+$S +4 1 comp7
+$S +4 1 exc7
+$S +4 1 exA2_2
+$S +4 1 exc8
+$S +4 1 exA2_1
+$S +4 1 in_luna
+$S +4 1 exc4
+$S +4 1 exc1
+$S +4 1 in_ora
+$S +4 1 exc5
+$S +4 1 exc2
+$S +4 1 in_zi
+$S +4 1 exc3
+$ENDWAVE

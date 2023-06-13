@@ -1,0 +1,24 @@
+elbread.dll ver. 1.0.5.365 Mon Jul 05 09:48:19 2021
+
+
+--------------------------------------------
+Entity           | Architecture | Library 
+--------------------------------------------
+automat          | struct       | ProiectPSN
+numarator        | rtl          | proiectpsn
+comparator_bit   | comp_arch    | proiectpsn
+comparator_1bit  | comp_arch    | proiectpsn
+addierer         | behavioral   | proiectpsn
+and2             | andlogic     | proiectpsn
+or3              | flux         | proiectpsn
+or2              | flux         | proiectpsn
+--------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

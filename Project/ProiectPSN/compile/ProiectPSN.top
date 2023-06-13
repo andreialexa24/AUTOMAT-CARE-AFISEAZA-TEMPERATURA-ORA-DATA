@@ -1,0 +1,3 @@
+comparator_8bit ENTITY
+bcd_7segment ENTITY
+automat ENTITY
